@@ -20,7 +20,7 @@ dependencies = [
 ]
 
 [project.urls]
-source = "https://github.com/rskottap/imfind"
+source = "https://github.com/churchofcurry/imfind"
 download = "https://pypi.org/project/imfind/#files"
 
 [project.scripts]
